@@ -40,8 +40,8 @@ I believe in learning by building — turning concepts into working systems inst
 ---
 
 ## 🔗 Links
-- 🌐 Portfolio: <your-portfolio-link>
-- 💼 LinkedIn: www.linkedin.com/in/govindhasamy-k
+- 🌐 Portfolio: govindhasamy.pages.dev
+- 💼 LinkedIn: linkedin.com/in/govindhasamy-k
 
 ---
 

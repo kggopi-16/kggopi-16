@@ -28,7 +28,7 @@ I believe in learning by building — turning concepts into working systems inst
 - **OpsPilot** – Local-first automation agent focused on productivity and privacy  
 - **Twitter Sentiment Engine** – Large-scale text preprocessing and sentiment analysis pipeline  
 
-(Links below ⬇️)
+
 
 ---
 
